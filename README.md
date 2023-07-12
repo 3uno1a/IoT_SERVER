@@ -14,7 +14,7 @@ mqtt 통신
 
 ![image](https://github.com/eunjijen/IOT_SERVER/assets/75493219/45c1a334-a764-44ea-9e6c-dafb4764b2a7)
 
-
+django rest api
 ![image](https://github.com/eunjijen/IOT_SERVER/assets/75493219/afe41a12-35df-4815-9cec-d10149c6cb15)
 
 mjpeg
